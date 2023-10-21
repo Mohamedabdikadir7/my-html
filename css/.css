@@ -1,0 +1,8 @@
+img {
+    float: left; /* or float: right; */
+    margin: 20px; /* Add some margin for spacing */
+}
+
+body {
+    background-color: blue;
+}
